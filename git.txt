@@ -1,0 +1,23 @@
+commit a1655afe8e00c9ad2dd5e7ed6fa511098d5a9198
+Author: Victor Bolivar <vibolivar@outlook.com>
+Date:   Mon Apr 11 16:20:00 2016 -0500
+
+    se ingresa la descripción
+
+commit ada932a5804eda4b17a55e5afbbcd221f94f1d71
+Author: Victor Bolivar <vibolivar@outlook.com>
+Date:   Mon Apr 11 16:18:15 2016 -0500
+
+    Se ingresa el título
+
+commit e84a8f18b26d13fd71e6c2f1011eb8007940e9f6
+Author: Victor Bolivar <vibolivar@outlook.com>
+Date:   Mon Apr 11 15:55:50 2016 -0500
+
+    Cambios 2
+
+commit f37d01e7b197c7b70aa5a44786a084811cb5cb4a
+Author: Victor Bolivar Amaya <net.programador7@opa.local>
+Date:   Mon Apr 11 15:39:10 2016 -0500
+
+    Versión Inicial
