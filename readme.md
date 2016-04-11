@@ -13,4 +13,5 @@ git config --global --user.email vibolivar
 
 git log --> log.txt
 
+git merge pruebavideo
 
